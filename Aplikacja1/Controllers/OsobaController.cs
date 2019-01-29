@@ -11,7 +11,7 @@ using Aplikacja1.Models;
 
 namespace Aplikacja1.Controllers
 {
-    public class OsobasController : Controller
+    public class OsobaController : Controller
     {
         private OsobaContext db = new OsobaContext();
 

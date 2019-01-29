@@ -133,7 +133,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\OsobasController.cs" />
+    <Compile Include="Controllers\OsobaController.cs" />
     <Compile Include="DAL\OsobaContext.cs" />
     <Compile Include="DAL\OsobaInitializer.cs" />
     <Compile Include="Global.asax.cs">
